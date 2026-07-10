@@ -1,0 +1,13 @@
+Order_ID,Customer,Region,Category,Quantity,Unit_Price,Discount
+1001,Alice,North,Electronics,2,45000,10.0
+1002,Bob,South,Furniture,1,18000,5.0
+1003,Charlie,East,Clothing,4,1500,
+1004,David,West,Electronics,3,38000,15.0
+1005,Emma,North,Furniture,2,22000,0.0
+1006,Frank,East,Clothing,5,1200,5.0
+1007,Grace,South,Electronics,1,55000,10.0
+1008,Henry,West,Furniture,2,20000,
+1009,Isabella,North,Clothing,3,1700,5.0
+1010,Jack,East,Electronics,2,42000,20.0
+1011,Kevin,South,Furniture,1,21000,10.0
+1012,Laura,West,Clothing,4,1400,0.0
