@@ -43,6 +43,18 @@ The dataset contains:
 - Identified top customers
 - Exported processed data for reporting
 
+  ## 🔎 Analysis
+
+- Analyzed e-commerce sales data to understand revenue, order volume, customer behavior, and product performance.
+- Cleaned and prepared the dataset by checking missing values, duplicate records, data types, and inconsistent entries.
+- Analyzed total sales and order trends to understand overall business performance over time.
+- Identified top-performing products and categories based on sales contribution.
+- Compared customer purchasing patterns to identify high-value customers and important customer segments.
+- Analyzed regional or location-based sales performance to identify stronger and weaker markets.
+- Examined order and sales patterns to identify periods with higher and lower business activity.
+- Used data visualization to convert raw transactional data into simple business insights and management-friendly reports.
+- The analysis helped identify key revenue drivers and areas that could be investigated further for improving sales performance.
+
 ## Author
 
 Parth
